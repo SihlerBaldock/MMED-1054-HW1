@@ -68,3 +68,9 @@ See MIT license in repo.
 - Biking 
 - Playing Badminton 
 
+## Interesting Facts
+
+- When I was a little kid, I dreamed of becoming a doctor, but then when I grew older, I find being a doctor is a little challenging.
+- I used to have 4 pets, a fish, a bird, a hamster, and a cat.
+- When I was litte kid, I used to like having my own toy collection.
+
