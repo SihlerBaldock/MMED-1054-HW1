@@ -51,3 +51,20 @@ See MIT license in repo.
 - In the summer I sometimes drive my families 1987 Mazda Miata, which is a manual transmission.
 - I have worked at a pool store during the spring and summer for 6 years.
 
+## Abdul Hamdan - About Me
+
+![picture of Abdul](images/Abdul.jpg)
+
+## Background
+
+- I was born in November 22 2004.
+- I Moved to london Ontario whne I was 8 years old.
+- I also been to other countires in my life.
+
+## Hobbies
+
+- Playing Video games
+- Working Out
+- Biking 
+- Playing Badminton 
+
