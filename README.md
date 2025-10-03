@@ -58,7 +58,7 @@ See MIT license in repo.
 ## Background
 
 - I was born in November 22 2004.
-- I Moved to london Ontario whne I was 8 years old.
+- I Moved to london Ontario when I was 8 years old.
 - I also been to other countires in my life.
 
 ## Hobbies
